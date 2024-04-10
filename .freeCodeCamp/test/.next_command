@@ -111,3 +111,6 @@ history -a
 man if
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+help if
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a

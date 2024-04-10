@@ -49,3 +49,7 @@ echo --help
 man echo
 __vsc_prompt_cmd_original
 ./questionnaire.sh
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+./questionnaire.sh

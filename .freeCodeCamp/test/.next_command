@@ -59,3 +59,9 @@ echo -e
 ./questionnaire.sh
 touch countdown.sh
 chmod +x countdown.sh
+ls --color=auto -l
+whiwh bash
+which bash
+bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a

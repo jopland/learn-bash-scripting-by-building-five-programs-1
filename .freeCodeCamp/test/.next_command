@@ -27,3 +27,5 @@ sh questionnaire.sh
 bash questionnaire.sh
 wich bash
 which bash
+sh questionnaire.sh
+./questionnaire.sh
